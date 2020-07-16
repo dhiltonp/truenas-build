@@ -87,6 +87,7 @@
 		"wireguard-tools",
 		"zfs-test",
 		"build-essential",
+		"locales",
 		"debootstrap",
 		"xorriso",
 		"grub-common",
